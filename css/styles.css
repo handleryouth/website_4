@@ -1,0 +1,85 @@
+.main-center, .left, .right{
+  font-family: 'Karla', sans-serif;
+  font-weight: 400;
+
+}
+
+.main-center{
+  padding-top: 100px;
+  padding-left: 400px;
+  padding-right: 400px;
+}
+
+
+/*selfdivision*/
+
+.up{
+  background-color: hsl(204, 43%, 93%);
+  padding: 30px 70px 30px 40px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.left{
+  background-color: hsl(179, 62%, 43%);
+  flex-basis: 368px;
+  padding: 30px 30px 60px 40px;
+  color:#fff;
+}
+
+.right{
+  background-color: hsl(218, 22%, 67%);
+  flex-basis: 368px;
+  padding: 30px 30px 60px 40px;
+  color:#fff;
+}
+
+/*span and other things*/
+
+.joining{
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.guarantee{
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
+/*upper-css*/
+
+.joining{
+  color:hsl(179, 62%, 43%);
+}
+
+.guarantee{
+  color:hsl(71, 73%, 54%);
+}
+
+.description{
+  text-align:justify;
+  line-height: 2;
+}
+
+/*flexing object in the bottom*/
+.down{
+  display: flex;
+}
+
+/*for the left*/
+.price{
+  font-size: 32px;
+  line-height: 2;
+}
+
+.price-description{
+  margin-bottom: 25px;
+}
+
+/*for the right*/
+.what-you-get{
+  line-height: 1.5;
+}
