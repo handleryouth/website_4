@@ -91,6 +91,7 @@ and (max-width: 1080px)*/
 @media screen
   and (max-width: 1209px)
   {
+
     .joining, .guarantee, .description{
       margin-top: 10px;
       margin-left: 10px;
@@ -111,26 +112,26 @@ and (max-width: 1080px)*/
     }
     .up{
       padding: 0;
-      width: 400px;
+      width: 360px;
       height: 300px;
     }
 
     .left{
       padding: 0;
-      width: 400px;
+      width: 360px;
       height: 300px;
     }
 
     .right{
       padding: 0;
-      width: 400px;
+      width: 360px;
       height: 300px;
       line-height: 2;
       font-size: 20px;
     }
 
     .main-center{
-      margin:40px;
+      padding: 5px;
       display: flex;
       flex-direction: column;
       align-items: center;
