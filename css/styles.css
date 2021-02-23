@@ -130,7 +130,7 @@ and (max-width: 1080px)*/
     }
 
     .main-center{
-      padding:0;
+      padding:40px;
       display: flex;
       flex-direction: column;
       align-items: center;
